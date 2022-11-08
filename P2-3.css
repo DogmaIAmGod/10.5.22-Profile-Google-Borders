@@ -1,0 +1,37 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+#title {
+    text-align: center;
+    font-size: 50pt;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    margin-top: 2in;
+}
+
+#arrow {
+    margin-bottom: 15in;
+    margin-left: 7.5in;
+    width: 40px;
+}
+
+#name {
+    font-size: 30pt;
+}
+
+#main-text {
+    width: 60%;
+    float: left;
+}
+
+#movies {
+    margin-top: 2in;
+    font-size: 30pt;
+    padding: 0;
+}
+
+#center {
+    text-align: center;
+}
